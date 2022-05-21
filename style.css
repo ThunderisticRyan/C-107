@@ -1,0 +1,38 @@
+body{
+    font-family:'Special Elite', cursive;
+    background: #f29f5e;
+}
+
+.header_div
+{
+    background: #d5e85a;
+    color: #9e0533;
+    text-shadow: 5px 5px 5px rgb(194, 86, 64);
+}
+
+.header_div p{
+    font-family:'Comic Neue', cursive;
+    color: #239e05;
+    letter-spacing: 2px;
+    font-size: 20px;;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px rgb(81, 173, 81);
+}
+.main_div button {
+    font-family: 'Comic Neue', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #1d608a;
+    bottom: 0;
+    width:100%;
+    font-size: 18px;
+    background-color: #d5e85a;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(76, 207, 217);
+}
